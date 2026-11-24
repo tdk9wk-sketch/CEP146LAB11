@@ -1,0 +1,66 @@
+EXERCISE 1: RESUME SCREENING AI BIAS ANALYSIS
+
+STEP 1: BASIC STATISTICS
+
+Interview Rate (AI Decision):
+
+Males scoring 70+: 46 out of 50 = 92% 
+Females scoring 70+: 24 out of 50 = 48%
+
+Actual Qualification Rate (Human Expert):
+
+Males actually qualified: 38 out of 50 = 76% 
+Females actually qualified: 35 out of 50 = 70%
+
+STEP 2: BIAS ANALYSIS
+
+AI Accuracy by Group:
+
+Males: The AI recommended 46 candidates for interviews. 
+Females: The AI recommended 24 candidates for interviews.
+
+AI Interview Rate compared with Actual Qualification Rate:
+
+Males: 81.58% relative accuracy. 
+Females: 68.57% relative accuracy.
+
+False Negatives (Qualified but Rejected):
+
+Males: Between 0 and 4 qualified men could have been scored below 70.
+Females: Between 11 and 26 qualified women could have been scored below 70.
+
+STEP 3: IMPACT ASSESSMENT
+Real-world Impact:
+
+If TechCorp hires 20 people based on AI recommendations:
+
+Males: 13 
+Females: 7
+
+Is this proportional to the actual qualification rates?
+
+No
+
+Based on the actual number of qualified candidates, a proportional distribution would be approximately:
+
+Males: 10 
+Females: 10
+
+STEP 4: REFLECTION QUESTIONS
+
+What evidence of bias do you see in this AI system?
+
+The AI appears to favor male candidates. 92% of male candidates passed the screening, compared to only 48% of female candidates. However, the actual qualification rates were much closer, at 76% for males and 70% for females. This suggests that the AI may be unfairly rejecting female candidates.
+
+How might this bias have developed during programming/training?
+
+The bias could have developed from historical hiring data that favored men. The AI may have learned patterns from previously biased hiring decisions. Developers may also have unintentionally included factors that disadvantaged female candidates or failed to test the system for gender bias.
+
+What would you recommend to fix this system?
+
+Review and improve the training data to make it more representative.
+Test the AI for gender bias regularly.
+Review the scoring criteria to identify unfair factors.
+Include human reviewers in the hiring process.
+Monitor interview rates and qualification rates across different groups.
+Make sure candidates are evaluated based on relevant skills and qualifications rather than gender.
