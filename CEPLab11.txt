@@ -64,3 +64,29 @@ Review the scoring criteria to identify unfair factors.
 Include human reviewers in the hiring process.
 Monitor interview rates and qualification rates across different groups.
 Make sure candidates are evaluated based on relevant skills and qualifications rather than gender.
+
+PART 2
+1
+felt like my work was for nothing and I can't improve
+
+2
+Answers felt more talored to my situation I understood the decision was based off mostly grades Felt like my work got me close and that I can improve to get into the program Process was fairer Need SAT scores, LEADERSHIP too
+
+3
+Scholarship has a clear requirement, this is less trustworthy because its uncertain. This will have a human in the loop (or recommended to have one).
+
+reflection
+Emotional impact
+Round 2 felt more fair because reasoning was given
+
+Understanding
+Round 2 because reasoning and weights were given
+
+Trust
+Round 2 because it is open with the criteria you don't have to worry that it is wrong
+
+Actionability
+Round 2 because it tells you about what to improve To build trust and people need to know that their actions are validated
+
+Programming Implications
+To give users control Giving too much information or too little The biases aren't easily exposed, users aren't given a say, inability to validate.
